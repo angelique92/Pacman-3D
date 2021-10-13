@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609707926 source:/home/angel/pacman/projet/enc/main.c
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<math.h>
+	<unistd.h>
+	<time.h>
+
